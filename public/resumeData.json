@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Ali Cankal",
+    "occupation": "Digital Cosultant",
+    "description": "For all your digital needs.",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Ali! I have beenn ass a developper and mentor over 12 years. Now i work with UK's leading education company QA Ltd. as Digital Learning Consultent to help people that willing to learn and grow their skills. If you need any help or support with your software development, get in thouch. I can help and advise you to grow your skills. have a look at my Let's Learn page for list of education materials.",
+    "contactmessage": "Get in touch with me to be a part of the Let's Learn family!",
+    "email": "alicankal@uzmansoftware.com",
+    "phone": "+44 7424751632",
+    "address": {
+      "street": "Oaklands",
+      "city": "Chippenham",
+      "state": "Wiltshire",
+      "zip": "SN15 1RG"
+    },
+    "website": "https://www.cankalsoftware.com",
+    "resumedownload": "http://cankalsoftware.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCasAZYa4tle-pAV98BfVG1A",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/uzmansoftware",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/alicankal",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/cankalsoftware/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/uyko76",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Open University - UK",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2016",
+        "description": "Second Graduation"
+      },
+      {
+        "school": "Mugla University - Turkey",
+        "degree": "Computer Science",
+        "graduated": "July 1998",
+        "description": "Computer programmer Graduation"
+      }
+    ],
+    "work": [
+      {
+        "company": "Cankal Software and IT Consultancy Ltd.",
+        "title": "Founder and Digital Consultant",
+        "years": "Jan 2018 - Present",
+        "description": "Helping and supporting everyone with their digital needs, from hardware, cyber to software."
+      },
+      {
+        "company": "QA Ltd",
+        "title": "Digital Learning Consultant",
+        "years": "Mar 2018 - Present",
+        "description": "Helping and supporting apprenticess within their Software adn Cyber programmes."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Pinarlik.com",
+        "category": "",
+        "image": "pinarlik.png",
+        "url": "https://pinarlik.com"
+      },
+      {
+        "title": "cankalsoftware.com",
+        "category": "",
+        "image": "cankalsoftware.png",
+        "url": "https://cankalsoftware.com"
+      },
+      {
+        "title": "purple-edge.co.uk",
+        "category": "",
+        "image": "purpleedge.png",
+        "url": "https://purple-edge.co.uk"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+     
+    ]
+  }
+}
