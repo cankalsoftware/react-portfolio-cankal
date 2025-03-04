@@ -16,9 +16,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "webpack": "NODE_OPTIONS=--openssl-legacy-provider webpack",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "build": "NODE_OPTIONS=--openssl-legacy-provider webpack"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
