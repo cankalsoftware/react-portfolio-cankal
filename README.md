@@ -90,11 +90,16 @@ $pnpm install
 
 $pnpm run build
 
+To start the dev
+$pnpm start
+
+if any isues
 Ensure you have install the node in pnpm
 $pnpm env use --global lts
 
 if you have come build errors run this in terminal
 $set NODE_OPTIONS=--openssl-legacy-provider
 
-To start the dev
-$pnpm start
+then log into 
+https://netlify.app/ 
+to render
