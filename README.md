@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+Install pnpm with
+
+after that look at the depricated libraries adn reinstall them>>>>
+ WARN  deprecated eslint@7.32.0: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+ WARN  47 deprecated subdependencies found: @babel/plugin-proposal-class-properties@7.18.6, @babel/plugin-proposal-nullish-coalescing-operator@7.18.6, @babel/plugin-proposal-numeric-separator@7.18.6, @babel/plugin-proposal-optional-chaining@7.21.0, @babel/plugin-proposal-private-methods@7.18.6, @babel/plugin-proposal-private-property-in-object@7.21.11, @hapi/address@2.1.4, @hapi/bourne@1.3.2, @hapi/hoek@8.5.1, @hapi/joi@15.1.1, @hapi/topo@3.1.6, @humanwhocodes/config-array@0.5.0, @humanwhocodes/object-schema@1.2.1, @npmcli/move-file@1.1.2, @types/testing-library__dom@7.5.0, abab@2.0.6, babel-eslint@10.1.0, copy-concurrently@1.0.5, core-js@1.2.7, core-js@2.6.12, domexception@2.0.1, figgy-pudding@3.5.2, flatten@1.0.3, fs-write-stream-atomic@1.0.10, fsevents@1.2.13, glob@5.0.15, glob@7.2.3, inflight@1.0.6, lodash.template@4.5.0, move-concurrently@1.0.1, q@1.5.1, querystring@0.2.1, resolve-url@0.2.1, rimraf@2.7.1, rimraf@3.0.2, rollup-plugin-babel@4.4.0, rollup-plugin-terser@5.3.1, sane@4.1.0, source-map-resolve@0.5.3, source-map-url@0.4.1, sourcemap-codec@1.4.8, stable@0.1.8, svgo@1.3.2, urix@0.1.0, uuid@3.4.0, w3c-hr-time@1.0.2, workbox-google-analytics@5.1.4
+Packages: +1674
