@@ -10,7 +10,6 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-redux": "^7.2.2",
-    "react-scripts": "4.0.1",
     "react-typewriter": "^0.4.1",
     "web-vitals": "^1.1.0"
   },
@@ -18,7 +17,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider webpack"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -42,5 +42,12 @@
       "ejs",
       "es5-ext"
     ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.9",
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-react": "^7.26.3",
+    "react-refresh": "^0.16.0",
+    "react-scripts": "5.0.1"
   }
 }
