@@ -3,6 +3,8 @@ import React, { useState } from "react";
 const About = ({ data, onRefresh }) => {
   const [showFullBio, setShowFullBio] = useState(false);
 
+  if (!data) return null;
+
   if (data) {
     var name = data.name;
     var profilepic = "images/" + data.image;
@@ -13,7 +15,7 @@ const About = ({ data, onRefresh }) => {
     var zip = data.address.zip;
     var phone = data.phone;
     var email = data.email;
-    var resumeDownload = data.resumedownload;
+
   }
 
   const handlePrint = (e) => {
@@ -76,7 +78,7 @@ const About = ({ data, onRefresh }) => {
             </div>
             <div className="columns download">
               <p>
-                <a href="#" className="button" onClick={handlePrint}>
+                <a href={data.resumedownload || '#'} className="button" onClick={handlePrint}>
                   <i className="fa fa-download"></i>Download PDF
                 </a>
               </p>

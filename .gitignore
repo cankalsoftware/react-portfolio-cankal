@@ -8,6 +8,8 @@
 # testing
 /coverage
 /cv
+public/cv
+public/smtp_config.php
 
 
 # production

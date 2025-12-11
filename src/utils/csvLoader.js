@@ -63,7 +63,8 @@ export const loadDynamicData = async (currentData) => {
         skills,
         certifications,
         honors,
-        projects,
+        // projects (unused in data mapping logic here, but fetched: fetchAndParse('Projects.csv')) -> we can omit if unused
+        // projects, 
         volunteering,
         recommendations,
         courses

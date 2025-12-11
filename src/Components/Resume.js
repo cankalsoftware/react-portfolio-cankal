@@ -192,11 +192,14 @@ const Resume = ({ data }) => {
             <ExpandableSection
               items={courses}
               mode="list"
-              className="skills"
+              className="courses-list" // Changed from 'skills' to custom class or generic
               renderItem={(course) => (
                 <li key={course.name}>
-                  <span className="bar-expand"></span>
-                  <em>{course.name} - {course.number}</em>
+                  {/* Removed bar-expand span which caused black square */}
+                  <div className="course-item">
+                    <h5>{course.name}</h5>
+                    <p className="course-number">{course.number}</p>
+                  </div>
                 </li>
               )}
             />
