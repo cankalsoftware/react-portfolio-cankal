@@ -1,6 +1,8 @@
-import React from "react";
+import React, { useState } from "react";
 
-const About = ({ data }) => {
+const About = ({ data, onRefresh }) => {
+  const [showFullBio, setShowFullBio] = useState(false);
+
   if (data) {
     var name = data.name;
     var profilepic = "images/" + data.image;
@@ -14,6 +16,20 @@ const About = ({ data }) => {
     var resumeDownload = data.resumedownload;
   }
 
+  const handlePrint = (e) => {
+    e.preventDefault();
+    window.print();
+  };
+
+  const getBioContent = () => {
+    if (!bio) return null;
+    if (showFullBio) return bio;
+    // Truncate to ~300 chars or first few sentences
+    const limit = 300;
+    if (bio.length <= limit) return bio;
+    return bio.substring(0, limit) + "...";
+  };
+
   return (
     <section id="about">
       <div className="row">
@@ -21,13 +37,26 @@ const About = ({ data }) => {
           <img
             className="profile-pic"
             src={profilepic}
-            alt="Sonny's Profile Pic"
+            alt="Profile Pic"
+            onClick={onRefresh}
+            style={{ cursor: 'pointer' }}
+            title="Click to refresh data from CSVs"
           />
         </div>
         <div className="nine columns main-col">
           <h2>About Me</h2>
 
-          <p>{bio}</p>
+          <p>
+            {getBioContent()}
+            {bio && bio.length > 300 && (
+              <span
+                onClick={() => setShowFullBio(!showFullBio)}
+                style={{ color: '#11ABB0', cursor: 'pointer', marginLeft: '10px' }}
+              >
+                {showFullBio ? "Read Less" : "Read More"}
+              </span>
+            )}
+          </p>
           <div className="row">
             <div className="columns contact-details">
               <h2>Contact Details</h2>
@@ -47,8 +76,8 @@ const About = ({ data }) => {
             </div>
             <div className="columns download">
               <p>
-                <a href={resumeDownload} className="button">
-                  <i className="fa fa-download"></i>Download Resume
+                <a href="#" className="button" onClick={handlePrint}>
+                  <i className="fa fa-download"></i>Download PDF
                 </a>
               </p>
             </div>

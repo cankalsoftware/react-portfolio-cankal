@@ -4,9 +4,9 @@
     "occupation": "Digital Cosultant",
     "description": "For all your digital needs.",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Ali! I have beenn ass a developper and mentor over 12 years. Now i work with UK's leading education company QA Ltd. as Digital Learning Consultent to help people that willing to learn and grow their skills. If you need any help or support with your software development, get in thouch. I can help and advise you to grow your skills. have a look at my Let's Learn page for list of education materials.",
+    "bio": "Dynamic Technology Leader | Software Developer | Passionate Coach/Mentor I’m a self-starter and friendly professional with over 25+ years of expertise in software development, IT, project management, and leadership. With a proven record of success, I thrive in both independent and collaborative settings. I embrace challenges and take pride in coaching and mentoring individuals to achieve their full potential. Key Skills & Strengths Academic Excellence:   - Expert in marking academic assignments to ensure competency and quality.   - 100% success rate: Guided 350+ learners to complete their apprenticeship programs, with 99% achieving their goals on their first attempt. - Leadership & Coaching:   - Passionate about coaching individuals to excel, meet KPIs, and improve business objectives.   - Strong communication, mentoring, and leadership skills, backed by high resilience and a positive attitude.   - Experience mentoring teams toward timely and successful technical development milestones. - Software Development Expertise:   - Extensive experience across all stages of the SDLC, from development to operations.   - Skilled in Agile methodologies (Scrum, Kanban, Scrumban, Waterfall).   - High-level troubleshooting, analytical problem-solving, and technical investigation skills. - Customer-Centric Focus:   - Proven ability to exceed expectations in high-pressure environments.   - Exceptional written and verbal communication skills at all organizational levels. - Versatility in Technology:   - Comfortable adapting to and mastering new technologies quickly.   - Expertise in creating bespoke solutions, such as a custom-built CRM application using web technologies. Key Achievements - Empowering Success:   - Successfully coached individuals to achieve their goals, transitioning into professional software developers. - Driving Business Impact:   - Consistently met KPIs and delivered results aligned with business objectives.   - Developed a streamlined process to enhance team productivity and communication. - Delivering Innovation:   - Designed and implemented a bespoke CRM application to improve efficiency.   - Provided tailored mentoring to colleagues and customers, enhancing team success. - Technical Mastery:   - Achieved swift case resolution through expert diagnosis and out-of-the-box problem-solving.   - Delivered exceptional responsiveness and productivity standards in Agile environments. With a passion for coaching and a customer-centric mindset, I am eager to bring value to new challenges. Let’s connect and discuss how I can help your team or business thrive!",
     "contactmessage": "Get in touch with me to be a part of the Let's Learn family!",
-    "email": "alicankal@uzmansoftware.com",
+    "email": "alicankal@cankalsoftware.com",
     "phone": "+44 7424751632",
     "address": {
       "street": "Oaklands",
@@ -24,7 +24,7 @@
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/uzmansoftware",
+        "url": "https://www.facebook.com/cankalsoftware",
         "className": "fa fa-facebook"
       },
       {
@@ -48,84 +48,830 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "Open University - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Second Graduation"
+        "school": "Keele University",
+        "degree": "Master's degree",
+        "graduated": "Jan 2026",
+        "description": "https://online.keele.ac.uk/online-programme/msc-computer-science-with-artificial-intelligence/"
       },
       {
-        "school": "Mugla University - Turkey",
-        "degree": "Computer Science",
-        "graduated": "July 1998",
-        "description": "Computer programmer Graduation"
+        "school": "The Open University",
+        "degree": "Bachelor's Degree",
+        "graduated": "Jul 2016",
+        "description": "Computing and IT skills have become fundamental to the way we live, work, socialise and play. This degree course opens up the world of technology and an array of exciting careers in a wide range of sectors – from finance, government, health, education and the ‘Third Sector', to business, gaming and commerce. You may want to become a confident user and manager of information technologies; administer and manage network or database systems; or develop new software solutions to meet specific market or organisational needs. The BSc (Honours) Computing and IT offers a variety of study pathways such as networking, professional practice or solutions development, and the opportunity to specialise in software development or digital technologies. If you’re currently employed, there are valuable opportunities to incorporate work-related learning that builds on your existing role and equips you for new responsibilities."
+      },
+      {
+        "school": "Digital Marketing Institute",
+        "degree": "Certification",
+        "graduated": "Mar 2020",
+        "description": "Trained to be a DM Pro by covering the below topics; Introduction to Digital Marketing Content Marketing Social Media Marketing SEO (Search Engine Optimization) Paid Search (PPC) with Google Ads YouTube and Display Advertising Email Marketing Website Optimization Analytics with Google Analytics Digital Marketing Strategy"
+      },
+      {
+        "school": "Wiltshire College & University Centre",
+        "degree": "Licentiate degree",
+        "graduated": "Aug 2000",
+        "description": "ECDL"
+      },
+      {
+        "school": "Muğla Sıtkı Koçman Üniversitesi",
+        "degree": "Associate's degree",
+        "graduated": "Jul 1998",
+        "description": "Various programming languages including Pascal, Delphi, Assembly, C, VB, SQL."
       }
     ],
     "work": [
       {
-        "company": "Cankal Software and IT Consultancy Ltd.",
-        "title": "Founder and Digital Consultant",
-        "years": "Jan 2018 - Present",
-        "description": "Helping and supporting everyone with their digital needs, from hardware, cyber to software."
+        "company": "Cankal Software & IT Consultancy",
+        "title": "Software Developer",
+        "years": "Jul 2025 - Present",
+        "description": "Developing the next generation AI SaaS with firevision to save lives."
       },
       {
         "company": "QA Ltd",
-        "title": "Digital Learning Consultant",
-        "years": "Mar 2018 - Present",
-        "description": "Helping and supporting apprenticess within their Software adn Cyber programmes."
+        "title": "Degree Digital Learning Consultant",
+        "years": "Oct 2023 - Present",
+        "description": "I support the learners through the Digital Technology & Solutions Degree and Apprenticeship with Roehampton University. I also mark the module end assignments on their term modules, mainly on Software and DevOps."
+      },
+      {
+        "company": "Cankal Software & IT Consultancy",
+        "title": "SD Mentor in AI & ML",
+        "years": "Dec 2024 - Present",
+        "description": "MentorIn... : For empowering the next generation of AI professionals"
+      },
+      {
+        "company": "Cankal Software & IT Consultancy",
+        "title": "Digital Consultant",
+        "years": "Oct 2016 - Present",
+        "description": "•\tI work as a freelance consultant to improve companies’ IT processes and their interaction with technology. •\tI work with several companies’ IT systems to improve their business by %35. •\tI create a better business process for customers and increase profitability by %20 with Lean Six Sigma approaches. •\tI develop a Java-based CRM application to increase companies’ business with MySQL DB. •\tI develop a selection of web pages to increase customer business by %20. •\tI set the SEO for companies to improve their marketplace by %10 within their sector."
+      },
+      {
+        "company": "QA Ltd",
+        "title": "Cyber Security Digital Learning Consultant",
+        "years": "Dec 2022 - Sep 2024",
+        "description": ""
+      },
+      {
+        "company": "QA Ltd",
+        "title": "Software Developer Digital Learning Consultant",
+        "years": "May 2020 - Sep 2024",
+        "description": "•\tBe responsible for coaching and mentoring a group of learners working towards the successful and timely achievement of their Software development apprenticeship programme within a digital environment."
+      },
+      {
+        "company": "QA Ltd",
+        "title": "Software Developer Skills Coach",
+        "years": "Mar 2018 - May 2020",
+        "description": "•\tTo coach, mentor and assess groups of learners towards the achievement of their programme. •\tWork with the Regional Delivery Manager to meet the key business strategies and objectives. •\tTo support the learners to apply their newly found skills and knowledge to their day-to-day roles. •\tTo provide guidance and support for all components of the Software Developer programme for a caseload of learners.  •\tTo retain learners engaged in the programme and manage their learning and achievement in line with the targets and objectives agreed in their Commitment Statement. •\tTo conduct regular meetings between the employer and learner to demonstrate formal progress and planning of progression. •\tTo provide an outstanding experience for both the learner and the employer. •\tTo travel and complete assessment of all related Assessment Organisations’(Awarding Body) assignments. •\tIdentify, develop and deliver business opportunities. •\tManage a targeted number of learners. •\tUndertake additional projects and activities to meet the needs of the Delivery team and learners as required. •\tSupport learners holistically across a variety of modules, specifically helping them apply their skills to their immediate job roles. •\tBuild good working relationships with employers, line managers and mentors. •\tSupport the learners through the Summative Portfolio, Synoptic Project, Knowledge Modules and Interview with Assessment Organisation. •\tSupporting workplace managers with requirements for a learner reference. •\tEnsure that programmes are delivered in accordance with the organisations’ Equal Opportunities and Health and Safety Policies. •\tContinuous development and meeting the KPIs to grow my team and my business in the education sector."
+      },
+      {
+        "company": "Mercedes-Benz in the UK",
+        "title": "Rollout Training Consultant",
+        "years": "Jan 2018 - Feb 2018",
+        "description": "•\tI worked as a rollout and training consultant to implement a new MB application to be used in their UK dealership network. •\tI was responsible for training out the XPP/Autoline integration to Mercedes-Benz Passenger Car Autoline aftersales users in a classroom environment  •\tI was also responsible for on-the-job workstation coaching to Mercedes-Benz Passenger Car Autoline aftersales users. •\tI was supporting the retailer/dealer aftersales teams post-go-live. Managing query and issue resolution"
+      },
+      {
+        "company": "INFOTURK GROUP",
+        "title": "IT Project Manager",
+        "years": "Mar 2017 - Nov 2017",
+        "description": "•\tMy main duty is to manage, develop and implement a new local cloud software for the international IT sector. •\tI manage to develop new software to increase company revenue by %10 with PRINCE 2 Agile. •\tI report regularly to stakeholders about the cloud storage sector and IT with charts and presentations. •\tI serve as Scrum Master in the project to improve the development life cycle. •\tI collaborate with the sales team to increase international sales. •\tI liaise with international customers to improve relationships for future businesses. •\tI work with network engineers to improve customers’ day to day business. •\tI develop Java applications to improve company IP camera revenue by %15. •\tI add an extra %15 profit to the authentication software sale."
+      },
+      {
+        "company": "CDK Global",
+        "title": "Technical Software Support",
+        "years": "Apr 2008 - Oct 2016",
+        "description": "•\tI provide technical escalation for frontline support to ensure all customer calls are accurately investigated and ensure the cause and the symptom of problems are identified and resolved to meet customer satisfaction. •\tI analyse and resolve complex product issues, using analytical, technical or programming skills to meet SLA by code reading and manipulating. •\tI respond with empathy to customers, dealing with their needs, and acknowledging their operational pressures and deadlines.  •\tI work closely with both colleagues and customers to guide, advise and coach them to resolve their issues and problems with presentation and documentation. •\tI contribute to knowledgebase documentation to improve internal and external knowledge of the dealer management systems by %10. •\tI report issues and recommend process improvements to other teams to minimise queries and problems arising and to increase customer satisfaction levels. •\tDay to day, I complete the system monitoring task to improve system performance. •\tI analyse and read KCML programming code to investigate or resolve critical system issues. •\tI collaborate with third-party software companies to implement their products and new modules to customers’ systems to increase revenue. •\tI lease with third-party business intelligence companies to export the data to improve customer business. •\tI investigate and resolve the data transfer issues in pressured environments to help company profitability."
+      },
+      {
+        "company": "Swindon College",
+        "title": "Language Tutor",
+        "years": "Aug 2007 - Apr 2008",
+        "description": "- I teach the Turkish language to professionals to help their daily communication skills in their business. - I prepare tests and learning materials within the college teaching procedures. - I interact with students in a group or on 1-2-1 bases. - I present samples and exercises to the classroom to improve their knowledge of the language."
+      },
+      {
+        "company": "Cankal Software & IT Consultancy",
+        "title": "Web Designer and IT support",
+        "years": "Aug 2005 - Aug 2007",
+        "description": "- I communicate with one of the UK’s leading Overseas property agencies to open a new office in Turkey. - I manage a process to create a new property sale organisation in Turkey. - I create web pages for international property advertisements to increase local developers’ property sales and revenue by more than 60%."
+      },
+      {
+        "company": "LUX TRAFFIC CONTROLS LIMITED",
+        "title": "CAD Administrator",
+        "years": "Feb 2004 - Aug 2005",
+        "description": "- I have been the lead person to create scaled road closure drawings within highway agency requirements for local councils for road works. - I organise and manage the team of people and council to plan road closer process for highway agency road works. - I use the CAD drawing application to create documentation for highway agencies."
+      },
+      {
+        "company": "Eaton",
+        "title": "Software Engineer /Electronic test technician",
+        "years": "Feb 2001 - Feb 2004",
+        "description": "- I design a GUI application to control the lighting system in a tower building from a PC with OSS 2000 application. - I helped to reduce the lighting cost of the building by 30%. - I assist with the design and development of a Graphical User Interface project which resulted in extra sales and revenue"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "60%"
+        "name": "Delivering an interactive learning experience",
+        "level": "80%"
       },
       {
-        "name": "Java",
-        "level": "90%"
+        "name": "How to establish and maintain confidence and credibility",
+        "level": "80%"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "How to structure and prepare for a learning event",
+        "level": "80%"
+      },
+      {
+        "name": "Principles Of Learning",
+        "level": "80%"
+      },
+      {
+        "name": "Questioning Skills",
+        "level": "80%"
+      },
+      {
+        "name": "Selecting and using learning methods and training aids",
+        "level": "80%"
+      },
+      {
+        "name": "Delivering an interactive learning experienc",
+        "level": "80%"
+      },
+      {
+        "name": "Establish and maintain confidence and credibility",
+        "level": "80%"
+      },
+      {
+        "name": "Structure and prepare for a learning event",
+        "level": "80%"
+      },
+      {
+        "name": "Principles Of Learnin",
+        "level": "80%"
+      },
+      {
+        "name": "Questioning Skill",
+        "level": "80%"
+      },
+      {
+        "name": "Selecting and using learning methods and training aid",
+        "level": "80%"
+      },
+      {
+        "name": "Building Resilience",
+        "level": "80%"
+      },
+      {
+        "name": "Coaching Conversations",
+        "level": "80%"
+      },
+      {
+        "name": "GROW your coaching",
+        "level": "80%"
+      },
+      {
+        "name": "Metacognition development",
+        "level": "80%"
+      },
+      {
+        "name": "Motivation and effective feedback",
+        "level": "80%"
+      },
+      {
+        "name": "Responding to change",
+        "level": "80%"
+      },
+      {
+        "name": "Effective Communication",
+        "level": "80%"
+      },
+      {
+        "name": "Managing Challenging Behaviour",
+        "level": "80%"
+      },
+      {
+        "name": "Neurodiversity within a virtual environment",
+        "level": "80%"
+      },
+      {
+        "name": "Promoting confidence and self-belief",
+        "level": "80%"
+      },
+      {
+        "name": "The SMARTER approach to goal setting",
+        "level": "80%"
+      },
+      {
+        "name": "Wider skills and applied knowledge",
+        "level": "80%"
+      },
+      {
+        "name": "Understanding Leadership",
+        "level": "80%"
+      },
+      {
+        "name": "Leading and Motivating a Team Effectively",
+        "level": "80%"
+      },
+      {
+        "name": "DCNN",
+        "level": "80%"
+      },
+      {
+        "name": "Convolutional Neural Networks (CNN)",
+        "level": "80%"
+      },
+      {
+        "name": "Leadership",
+        "level": "80%"
+      },
+      {
+        "name": "Management",
+        "level": "80%"
+      },
+      {
+        "name": "Team Leadership",
+        "level": "80%"
+      },
+      {
+        "name": "Machine Learning Algorithms",
+        "level": "80%"
+      },
+      {
+        "name": "Artificial Intelligence (AI)",
+        "level": "80%"
+      },
+      {
+        "name": "Data Science",
+        "level": "80%"
+      },
+      {
+        "name": "DevOps",
+        "level": "80%"
+      },
+      {
+        "name": "Coaching",
+        "level": "80%"
+      },
+      {
+        "name": "Mentoring",
+        "level": "80%"
+      },
+      {
+        "name": "Digital Technology and Solutions (DTS)",
+        "level": "80%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "80%"
+      },
+      {
+        "name": "Data Analysis",
+        "level": "80%"
+      },
+      {
+        "name": "Software Design",
+        "level": "80%"
+      },
+      {
+        "name": "SOC",
+        "level": "80%"
+      },
+      {
+        "name": "Cyber Defense",
+        "level": "80%"
+      },
+      {
+        "name": "Masters",
+        "level": "80%"
+      },
+      {
+        "name": "OSINT",
+        "level": "80%"
+      },
+      {
+        "name": "Digital Forensics",
+        "level": "80%"
+      },
+      {
+        "name": "Vulnerability Management",
+        "level": "80%"
+      },
+      {
+        "name": "Darkweb Operation",
+        "level": "80%"
+      },
+      {
+        "name": "Cyber Threat Hunting (CTH)",
+        "level": "80%"
+      },
+      {
+        "name": "Network Traffic Analysis",
+        "level": "80%"
+      },
+      {
+        "name": "Cybersecurity",
+        "level": "80%"
+      },
+      {
+        "name": "Software Development Life Cycle (SDLC)",
+        "level": "80%"
+      },
+      {
+        "name": "Software Testing",
+        "level": "80%"
+      },
+      {
+        "name": "Software Development",
+        "level": "80%"
+      },
+      {
+        "name": "Technical Support",
+        "level": "80%"
+      },
+      {
+        "name": "Testing",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "XML",
+        "level": "80%"
+      },
+      {
+        "name": "Unix",
+        "level": "80%"
+      },
+      {
+        "name": "Windows Server",
+        "level": "80%"
       },
       {
         "name": "JavaScript",
         "level": "80%"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "Six Sigma",
+        "level": "80%"
+      },
+      {
+        "name": "Software support",
+        "level": "80%"
+      },
+      {
+        "name": "Relational Databases",
+        "level": "80%"
+      },
+      {
+        "name": "Visual Basic",
+        "level": "80%"
+      },
+      {
+        "name": "Web Technologies",
+        "level": "80%"
+      },
+      {
+        "name": "Eclips",
+        "level": "80%"
+      },
+      {
+        "name": "Agile Project Management",
+        "level": "80%"
+      },
+      {
+        "name": "Stakeholder Management",
+        "level": "80%"
+      },
+      {
+        "name": "PRINCE2",
+        "level": "80%"
+      },
+      {
+        "name": "Business Process Improvement",
+        "level": "80%"
+      },
+      {
+        "name": "Object-Oriented Programming (OOP)",
+        "level": "80%"
+      },
+      {
+        "name": "Programming",
+        "level": "80%"
+      },
+      {
+        "name": "Python (Programming Language)",
+        "level": "80%"
+      },
+      {
+        "name": "Learning consultant",
+        "level": "80%"
+      },
+      {
+        "name": "Software learning consultant",
+        "level": "80%"
+      },
+      {
+        "name": "React.js",
+        "level": "80%"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "NVQ Level 2 on Lean Six Sigma Green Belt - Process Improvement",
+        "authority": "EAL Awards",
+        "date": "Jun 2010",
+        "license": "98209412",
+        "url": "Eal.org.uk"
+      },
+      {
+        "name": "NVQ Level 3 on Lean Six Sigma Green Belt - Quality Improvement",
+        "authority": "EAL Awards",
+        "date": "Feb 2011",
+        "license": "98290011",
+        "url": "Eal.org.uk"
+      },
+      {
+        "name": "Cyber Security",
+        "authority": "The Open University",
+        "date": "May 2016",
+        "license": "",
+        "url": ""
+      },
+      {
+        "name": "Shaping up with Angular.js",
+        "authority": "CodeSchool",
+        "date": "Oct 2016",
+        "license": "",
+        "url": "https://www.codeschool.com/courses/shaping-up-with-angular-js"
+      },
+      {
+        "name": "PRINCE2® Foundation and Practitioner 2017",
+        "authority": "The Knowledge Academy",
+        "date": "Nov 2017",
+        "license": "",
+        "url": ""
+      },
+      {
+        "name": "EU GDPR: Employee Awareness Training",
+        "authority": "QA Apprenticeships",
+        "date": "May 2018",
+        "license": "",
+        "url": ""
+      },
+      {
+        "name": "Prevent for Practitioners",
+        "authority": "The Education and Training Foundation",
+        "date": "May 2018",
+        "license": "",
+        "url": "http://www.foundationonline.org.uk"
+      },
+      {
+        "name": "Safeguarding in FE 206",
+        "authority": "The Education and Training Foundation",
+        "date": "May 2018",
+        "license": "",
+        "url": "http://www.foundationonline.org.uk"
+      },
+      {
+        "name": "Level 2 & 3 Customer Services Diploma",
+        "authority": "New Skills Academy (part of BE-A Education Ltd)",
+        "date": "Aug 2018",
+        "license": "ruftfjb1",
+        "url": "https://newskillsacademy.co.uk/?download_certificate=1&cerf_no=ruftfjb1"
+      },
+      {
+        "name": "Level 3 Fitness Diploma (Personal Trainer / Fitness Instructor)",
+        "authority": "New Skills Academy (part of BE-A Education Ltd)",
+        "date": "Jul 2018",
+        "license": "a0t8y1h8",
+        "url": "https://newskillsacademy.co.uk/?download_certificate=1&cerf_no=a0t8y1h8"
+      },
+      {
+        "name": "Certified Digital Marketing Professional",
+        "authority": "QA Ltd",
+        "date": "Feb 2019",
+        "license": "",
+        "url": ""
+      },
+      {
+        "name": "Working with Emotional Intelligence",
+        "authority": "QA Ltd",
+        "date": "Dec 2018",
+        "license": "",
+        "url": ""
+      },
+      {
+        "name": "Coaching for Results",
+        "authority": "QA Ltd",
+        "date": "Nov 2018",
+        "license": "",
+        "url": ""
+      },
+      {
+        "name": "Communicate Effectively",
+        "authority": "QA Ltd",
+        "date": "Jun 2019",
+        "license": "",
+        "url": "https://www.qa.com/training-courses/business-skills/communication/communicate-effectively"
+      },
+      {
+        "name": "Manage and Develop Business Relationships",
+        "authority": "QA Ltd",
+        "date": "Mar 2020",
+        "license": "",
+        "url": ""
+      },
+      {
+        "name": "Certified Digital Marketing Professional",
+        "authority": "Digital Marketing Institute",
+        "date": "Mar 2020",
+        "license": "UK-QA55842",
+        "url": "https://www.credential.net/15f12b3f-407f-4ec1-bcfd-14c2d27f7988"
+      },
+      {
+        "name": "Foundation Certificate in Cyber Security",
+        "authority": "APMG International",
+        "date": "May 2020",
+        "license": "04332754-01-VIE8",
+        "url": ""
+      },
+      {
+        "name": "Fundamentals of AWS",
+        "authority": "Cloud Academy, Inc.",
+        "date": "Jun 2020",
+        "license": "19356382",
+        "url": "https://www.credential.net/18586a3f-57cb-4a81-8742-1b32f15cbc56"
+      },
+      {
+        "name": "Learning GIT First-Hand",
+        "authority": "Cloud Academy, Inc.",
+        "date": "Jun 2020",
+        "license": "19361875",
+        "url": "https://www.credential.net/9a857c89-ad16-450b-9f5a-1756759c7f35"
+      },
+      {
+        "name": "Google Cloud Platform Fundamentals",
+        "authority": "Cloud Academy, Inc.",
+        "date": "Jun 2020",
+        "license": "21259148",
+        "url": ""
+      },
+      {
+        "name": "Microsoft Azure Fundamentals",
+        "authority": "Cloud Academy, Inc.",
+        "date": "Jul 2020",
+        "license": "21260895",
+        "url": ""
+      },
+      {
+        "name": "Programming Foundations: Object-Oriented Design",
+        "authority": "LinkedIn",
+        "date": "Jul 2020",
+        "license": "",
+        "url": "https://www.linkedin.com/learning/certificates/3b88757cf8c17eb6174713e21992790551a4df480ba7e805cdc583acd22b4162?trk=backfilled_certificate"
+      },
+      {
+        "name": "AZ-900 Exam Preparation: Microsoft Azure Fundamentals",
+        "authority": "Cloud Academy, Inc.",
+        "date": "Jul 2020",
+        "license": "21261575",
+        "url": ""
+      },
+      {
+        "name": "Cyber Security Fundamentals Pathway",
+        "authority": "Cloud Academy, Inc.",
+        "date": "Aug 2020",
+        "license": "21263795",
+        "url": ""
+      },
+      {
+        "name": "ReactJS: Zero to Hero",
+        "authority": "Cloud Academy, Inc.",
+        "date": "Nov 2020",
+        "license": "21271006",
+        "url": "https://certificates.cloudacademy.com/394c41f50fbf4496a1101e66a39f5bbd9e3b687d.pdf"
+      },
+      {
+        "name": "CSS Essential Training",
+        "authority": "LinkedIn",
+        "date": "Dec 2020",
+        "license": "",
+        "url": "https://www.linkedin.com/learning/certificates/3284d26c217f3ddf34da8e52755b2161abff6169c274999e08d71e78750430ec?trk=backfilled_certificate"
+      },
+      {
+        "name": "Developing Applications using ReactJS",
+        "authority": "QA Ltd",
+        "date": "Feb 2021",
+        "license": "QA25022021",
+        "url": ""
+      },
+      {
+        "name": "Business Writing Essentials",
+        "authority": "QA Ltd",
+        "date": "Apr 2021",
+        "license": "",
+        "url": ""
+      },
+      {
+        "name": "Cyber Security Fundamentals Pathway",
+        "authority": "QA Ltd",
+        "date": "Aug 2020",
+        "license": "",
+        "url": ""
+      },
+      {
+        "name": "Cyber Security - An Introduction",
+        "authority": "QA Ltd",
+        "date": "Oct 2019",
+        "license": "",
+        "url": ""
+      },
+      {
+        "name": "TAP Certificate in Coaching for Performance",
+        "authority": "TAP Learning",
+        "date": "Nov 2021",
+        "license": "",
+        "url": "www.qa.com"
+      },
+      {
+        "name": "ISTQB® Certified Tester",
+        "authority": "ISTQB® - International Software Testing Qualifications Board",
+        "date": "Jan 2022",
+        "license": "22-CTFL-201706-12",
+        "url": "www.ukitb.org"
+      },
+      {
+        "name": "Developing on AWS",
+        "authority": "QA Ltd",
+        "date": "Jan 2022",
+        "license": "",
+        "url": "www.qa.com"
+      },
+      {
+        "name": "BCS Foundation Certificate in Agile",
+        "authority": "BCS, The Chartered Institute for IT",
+        "date": "Feb 2022",
+        "license": "00531391",
+        "url": "http://www.bcs.org/eCertCheck"
+      },
+      {
+        "name": "Leadership Presence",
+        "authority": "QA Ltd",
+        "date": "Feb 2022",
+        "license": "",
+        "url": ""
+      },
+      {
+        "name": "BCS Professional Certificate - Software Tester",
+        "authority": "BCS, The Chartered Institute for IT",
+        "date": "Jul 2022",
+        "license": "00543628",
+        "url": "www.Bcs.org"
+      },
+      {
+        "name": "Fundamentals In Coaching Programme",
+        "authority": "QA Ltd",
+        "date": "Nov 2022",
+        "license": "ac56235d-e2ed-4c0f-a6ec-5af1c24eab47",
+        "url": "https://www.credly.com/earner/earned/badge/ac56235d-e2ed-4c0f-a6ec-5af1c24eab47"
+      },
+      {
+        "name": "Blue Team Junior Analyst",
+        "authority": "Security Blue Team",
+        "date": "Aug 2023",
+        "license": "740196934",
+        "url": ""
+      },
+      {
+        "name": "ILMA Level 3 Understanding Leadership",
+        "authority": "City & Guilds",
+        "date": "Apr 2025",
+        "license": "88SW-5XDU-4PKA-WHU8-ZXMA",
+        "url": ""
+      },
+      {
+        "name": "ILMA Level 3 Award in Leadership and Management",
+        "authority": "City & Guilds",
+        "date": "Sep 2025",
+        "license": "X2K5-GJLN-PTQA-TRKK-H549",
+        "url": ""
+      },
+      {
+        "name": "Coaching.The Next Level",
+        "authority": "QA Ltd",
+        "date": "Jul 2025",
+        "license": "70a8e9c7-97ab-47fd-8db9-6d7f05d5fef7",
+        "url": "https://www.credly.com/earner/earned/badge/70a8e9c7-97ab-47fd-8db9-6d7f05d5fef7"
+      },
+      {
+        "name": "TAP Training Delivery Skills",
+        "authority": "QA Ltd",
+        "date": "Nov 2028",
+        "license": "",
+        "url": "https://www.credly.com/badges/da40b4ba-ece1-4e2a-b4e2-07d7e8f9511e"
+      }
+    ],
+    "honors": [
+      {
+        "title": "Excellence in Self learning and Development",
+        "issuer": "LinkedIn",
+        "date": "Mar 2014"
+      },
+      {
+        "title": "Excellence in Helping Others and Knowledge Sharing",
+        "issuer": "LinkedIn",
+        "date": "Mar 2012"
+      }
+    ],
+    "volunteering": [
+      {
+        "organization": "MentorInAI",
+        "role": "Tutor",
+        "date": "May 2025 - Present",
+        "description": "Supporting the DTS Apprentice learners to grow their confidence and competencies within their program and KSB understanding with the guidance of https://www.youtube.com/@Mentorinai"
+      },
+      {
+        "organization": "Cankal Software & IT Consultancy",
+        "role": "Software Engineer",
+        "date": "Aug 2024 - Present",
+        "description": "AI and machine learning powered image recognition for security and safety, desktop and mobile application."
+      },
+      {
+        "organization": "Cankal Software & IT Consultancy",
+        "role": "ReactJS developer",
+        "date": "Nov 2020 - Present",
+        "description": "Creating web applications to teach and develop React JS applications. So far Amazon clone with Firebase and Stripe, NetFlix clone with Redux and Firebase. The next challenge is Slack clone with Firebase and redux. the Let's Learn documentation will be shared in 2021"
+      },
+      {
+        "organization": "Uzman Yangın Korunma Ofisi",
+        "role": "Software Consultant",
+        "date": "Dec 2016 - Present",
+        "description": "Helping to improve Uzman Yangın Fire Education program to deliver active and effective learning with Lean Six Sigma approach."
+      }
+    ],
+    "courses": [
+      {
+        "name": "Computing: an object-oriented approach",
+        "number": "M206"
+      },
+      {
+        "name": "Data, computing and information",
+        "number": "M150"
+      },
+      {
+        "name": "My digital life",
+        "number": "TU100"
+      },
+      {
+        "name": "Designing applications with Visual Basic",
+        "number": "MT264"
+      },
+      {
+        "name": "Web technologies",
+        "number": "TT284"
+      },
+      {
+        "name": "Microsoft server technologies",
+        "number": "TM128"
+      },
+      {
+        "name": "Relational databases: theory and practice",
+        "number": "M359"
+      },
+      {
+        "name": "Ebusiness technologies: foundations and practice",
+        "number": "T320"
+      },
+      {
+        "name": "Developing concurrent distributed systems",
+        "number": "M362"
+      },
+      {
+        "name": "The computing and IT project (online security)",
+        "number": "TM470"
+      },
+      {
+        "name": "Design and Programming with Python",
+        "number": "CSC-40076-2023-SEM2-C"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Pinarlik.com",
-        "category": "",
-        "image": "pinarlik.png",
-        "url": "https://pinarlik.com"
-      },
-      {
-        "title": "cankalsoftware.com",
-        "category": "",
-        "image": "cankalsoftware.png",
-        "url": "https://cankalsoftware.com"
-      },
-      {
-        "title": "purple-edge.co.uk",
-        "category": "",
-        "image": "purpleedge.png",
-        "url": "https://purple-edge.co.uk"
+        "title": "Uzman Yangın Müşteri / Ürün Takip Sistemi",
+        "category": "Project",
+        "image": "uzmanyangin.PNG",
+        "url": "http://www.uzman-yangin.com",
+        "description": "Development of a CRM application with web technologies and app integration."
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "",
-        "user": ""
+        "text": "Ali is professional, focused, determined, and yet remains friendly, and approachable. He understands the KSBs for L6 DTS and coaches apprentices to achieve their goals.",
+        "user": "Alyzande Renard MSc MBCS"
       }
-     
     ]
   }
 }
